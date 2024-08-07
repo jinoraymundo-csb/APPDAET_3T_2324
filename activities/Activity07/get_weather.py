@@ -1,6 +1,6 @@
 import json, requests, sys
 
-APPID = "5f537badaa26ca9c1f01a0234a92b185"
+APPID = ""
 
 # TODO: Download the JSON data from OpenWeatherMap.org's API\
 latitude = 14.5653002
